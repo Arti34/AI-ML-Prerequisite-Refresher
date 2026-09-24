@@ -37,6 +37,8 @@ The corresponding YouTube explanation links are listed below:
 | Matplotlib                      | https://youtu.be/aPOqzWNanNY      |
 | Linear Algebra                  | https://youtu.be/9xOkiwPpKKg      |
 | Probability                     | https://youtu.be/vr_OIIblDxk      |
+| Probability, stats1             | https://youtu.be/OKxqDaeJgJQ      |
+| Probability, stats2             | https://youtu.be/OsECkH9UsgU      |
 | Statistics                      | Add Link      |
 | Calculus                        | https://youtu.be/UyDnU1AzGw4      |
 | Foundations of Machine Learning | Add Link      |
