@@ -44,4 +44,4 @@ The corresponding YouTube explanation links are listed below:
 
 The goal of this assignment was to build a fundamental understanding of the concepts behind AI/ML and understand how the important code blocks connect theory with practical implementation.
 
-Please note I have created the videos for Statistics Foundations of Machine Learning and Neural Network Playground but since my daily Youtube Video upload limit reached I was not able to Upload it on Youtube, I will be able to upload after 24 hrs. I will upload after 24 hrs.
+## Please note: I have created the videos for Statistics Foundations of Machine Learning and Neural Network Playground but since my daily Youtube Video upload limit reached I was not able to Upload it on Youtube, I will be able to upload after 24 hrs. I will upload after 24 hrs.
