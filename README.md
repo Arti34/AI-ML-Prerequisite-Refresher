@@ -22,6 +22,9 @@ For each notebook, I have also recorded a short explanation video covering the k
 * Foundations of Machine Learning
 * Neural Network Playground
 
+## Google Drive location of collabs those are uploaded and executed:
+[https://drive.google.com/drive/u/1/folders/1ndvnEL5NA0Nti5NLh-AwcHNFbvy4Wt9K](https://drive.google.com/drive/folders/1ndvnEL5NA0Nti5NLh-AwcHNFbvy4Wt9K?usp=sharing)
+
 ## Video Explanations
 
 The corresponding YouTube explanation links are listed below:
